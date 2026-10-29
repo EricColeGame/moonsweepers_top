@@ -13,8 +13,8 @@
   },
   "home": {
     "meta": {
-      "title": "My Seafood Stand Wiki — Codes, Recipes, Upgrades & Guides",
-      "description": "Complete My Seafood Stand guide on Roblox with active working codes, all fish & recipes, best upgrades tier list, and fast cash tips."
+      "title": "Moon Sweepers Wiki - Beginner Guides, Upgrades & Co-op Tips",
+      "description": "Explore Moon Sweepers guides for lunar dust collection, depots, tools, upgrades, vehicles, co-op play, and Steam system requirements."
     },
     "hero": {
       "eyebrow": "Co-op Lunar Cleaning Simulator",
@@ -38,27 +38,27 @@
     },
     "start": {
       "eyebrow": "Start Here",
-      "title": "Your My Seafood Stand Journey",
+      "title": "Your Moon Sweepers Journey",
       "cards": [
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Start with a toothbrush, clean nearby lunar sectors, and learn how depot deliveries fund your first upgrades."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Earn Money Faster",
+          "description": "Collect lunar dust, complete shipments, and reinvest your payouts in more efficient cleaning."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Choose Your Upgrades",
+          "description": "Compare better brushes, carrying capacity, and economy upgrades before spending your first earnings."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in My Seafood Stand."
+          "title": "Plan Your First Depot",
+          "description": "Keep deliveries close to your cleaning area and turn each full container into a shipment."
         }
       ]
     },
@@ -66,265 +66,315 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "First Steps",
+        "Dust Collection",
+        "Tool Upgrades",
+        "Co-op Play"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Follow the toothbrush-to-depot loop and choose your first useful upgrades.",
+          "href": "/guide/moon-sweepers-beginner-guide"
+        },
+        {
+          "badge": "Guide",
+          "title": "Dust Collection",
+          "description": "Sweep, store, deliver, and ship lunar dust for cash.",
+          "href": "/mechanics/moon-sweepers-dust-collection"
         },
         {
           "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
-        },
-        {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "title": "Tools and Upgrades",
+          "description": "See how cleaning tools, carrying capacity, suit gear, and vehicles improve your operation.",
+          "href": "/upgrades/moon-sweepers-equipment-guide"
         },
         {
           "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "title": "Best Early Upgrades",
+          "description": "Decide when to improve your brush, storage, depot access, or vehicles.",
+          "href": "/upgrades/moon-sweepers-upgrade-priorities"
         },
         {
           "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "title": "Early Game Guide",
+          "description": "Work through your first dust shipment and the opening milestones.",
+          "href": "/guide/moon-sweepers-early-game-guide"
         },
         {
           "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
+          "title": "Co-op and Multiplayer",
+          "description": "Learn how to organize a lunar cleaning crew of up to 16 players.",
+          "href": "/guide/moon-sweepers-gameplay-guide"
         },
         {
           "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
+          "title": "Money and Progression",
+          "description": "Turn dust deliveries into better tools, depots, and vehicles.",
+          "href": "/guide/moon-sweepers-progression-guide"
         },
         {
           "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
+          "title": "PC System Requirements",
+          "description": "Check minimum and recommended Windows hardware for Moon Sweepers.",
+          "href": "/steam/moon-sweepers-system-requirements"
         },
         {
           "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "title": "Steam Release Details",
+          "description": "Find the release date, developer, and Steam features in one place.",
+          "href": "/steam/moon-sweepers-steam-release-date"
         }
       ]
     },
     "aboutGame": {
-      "title": "What is My Seafood Stand?",
+      "title": "What is Moon Sweepers?",
       "paragraphs": [
-        "My Seafood Stand is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Moon Sweepers is a lunar cleaning simulation by DragDrop Games. Start with a toothbrush, sweep dust from the Moon, carry it to a depot, and launch shipments to earn money. Play alone or team up online with a crew of up to 16 players.",
+        "Spend your earnings on cleaning tools, carrying capacity, and vehicles as your operation expands. Place depots near your work to shorten delivery trips, then track your progress across the changing lunar surface."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "DragDrop Games"
         },
         {
           "label": "Platform",
-          "value": "Roblox"
+          "value": "Steam (Windows)"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Cleaning Sim"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Co-op",
+          "value": "Up to 16 players"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Release",
+          "value": "Oct 23, 2026"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
+          "label": "Starting Tool",
+          "value": "Toothbrush"
         },
         {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Core Resource",
+          "value": "Lunar Dust"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
-      "title": "Explore My Seafood Stand Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "title": "Explore Moon Sweepers Wiki",
+      "description": "Find practical guides to lunar cleanup, tool upgrades, dust deliveries, co-op play, system requirements, and release news.",
       "modules": [
         {
           "order": 1,
-          "name": "My Seafood Stand Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/my-seafood-stand-codes",
-          "displayType": "code-box",
+          "name": "Moon Sweepers Beginner Guide",
+          "description": "Learn the cleaning, delivery, and upgrade loop from your first toothbrush sweep to your first profitable shipments.",
+          "href": "/guide/moon-sweepers-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "1",
+              "detail": "Clean nearby lunar dust with your starter toothbrush."
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "2",
+              "detail": "Carry the collected dust to a depot and launch a shipment."
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "3",
+              "detail": "Reinvest your earnings in a better brush and more capacity."
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/my-seafood-stand-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Moon Sweepers Tools and Upgrades",
+          "description": "Compare cleaning tools, container capacity, suit gear, and vehicles to decide where your next payout should go.",
+          "href": "/upgrades/moon-sweepers-equipment-guide",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "S",
+              "detail": "Household Broom: a strong early jump from the starter Toothbrush."
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "A",
+              "detail": "Container upgrades: carry more dust per depot trip."
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "B",
+              "detail": "Suit gear: improve movement, visibility, and utility."
+            },
+            {
+              "label": "C",
+              "detail": "Vehicles: expand cleanup after your early tool upgrades."
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/my-seafood-stand-tier-list",
-          "displayType": "tier-grid",
+          "name": "Moon Sweepers Money Making Guide",
+          "description": "Turn dust collection and depot deliveries into income, then use your payouts to improve the next cleaning run.",
+          "href": "/guide/moon-sweepers-progression-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "1",
+              "detail": "Sweep lunar dust and fill your container."
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "2",
+              "detail": "Deliver the load to a depot and launch a shipment."
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "3",
+              "detail": "Use earnings for tools, capacity, and nearby depots."
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "4",
+              "detail": "Expand into vehicles and refined resources later on."
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/my-seafood-stand-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Moon Sweepers Multiplayer and Co-op Guide",
+          "description": "Play solo or coordinate an online crew of up to 16 players to clean, deliver, and expand together.",
+          "href": "/guide/moon-sweepers-gameplay-guide",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "Solo",
+              "detail": "Clean and build your operation at your own pace."
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "Crew",
+              "detail": "Bring up to 16 players into an online lobby."
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "Share",
+              "detail": "Split cleaning areas or tackle one sector together."
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/my-seafood-stand-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Moon Sweepers Depot and Dust Delivery Guide",
+          "description": "Follow the route from collected dust to storage, nearby depots, and paid shipments.",
+          "href": "/mechanics/moon-sweepers-dust-collection",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "1",
+              "detail": "Sweep dusty terrain until your storage fills."
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "2",
+              "detail": "Carry the load to a depot near your work area."
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "3",
+              "detail": "Launch a shipment and invest the payout in faster cleanup."
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/my-seafood-stand-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Moon Sweepers System Requirements",
+          "description": "Check the official minimum and recommended Windows PC specifications before installing the game.",
+          "href": "/steam/moon-sweepers-system-requirements",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Minimum",
+              "detail": "Windows 10, 8 GB RAM, GTX 1650 or RX 570."
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Suggested",
+              "detail": "Windows 11, 16 GB RAM, GTX 1660 Super or RX 5600 XT."
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Storage",
+              "detail": "Allow 2 GB minimum or 4 GB recommended space."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Moon Sweepers Gameplay Features",
+          "description": "Explore lunar surface cleaning, visible terrain changes, resource collection, upgrades, vehicles, and cooperative play.",
+          "href": "/guide/moon-sweepers-gameplay-guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Sweep",
+              "detail": "Clear visible lunar dust from the terrain."
+            },
+            {
+              "label": "Upgrade",
+              "detail": "Improve tools and capacity as you earn money."
+            },
+            {
+              "label": "Expand",
+              "detail": "Place depots and unlock cleaning vehicles."
+            },
+            {
+              "label": "Co-op",
+              "detail": "Play solo or clean with up to 16 players."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Moon Sweepers Release and Update News",
+          "description": "Find the Steam launch details, developer information, and current guides to official game updates.",
+          "href": "/steam/moon-sweepers-steam-release-date",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Launch",
+              "detail": "Released on Steam on October 23, 2026."
+            },
+            {
+              "label": "Studio",
+              "detail": "Developed and published by DragDrop Games."
+            },
+            {
+              "label": "Patches",
+              "detail": "Follow release coverage and gameplay changes."
             }
           ]
         }
       ]
     },
     "faq": {
-      "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about My Seafood Stand.",
+      "title": "Moon Sweepers FAQ",
+      "description": "Answers to common questions about starting, earning, upgrading, and playing together in Moon Sweepers.",
       "items": [
         {
-          "question": "What is My Seafood Stand?",
-          "answer": "My Seafood Stand is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "question": "What is Moon Sweepers?",
+          "answer": "Moon Sweepers is a lunar cleaning simulation by DragDrop Games. Sweep lunar dust, send shipments from depots, and spend your earnings on tools and vehicles. You can play solo or in online co-op."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "What should I do first in Moon Sweepers?",
+          "answer": "Use your starting toothbrush to clean nearby lunar dust, carry it to a depot, and launch a shipment. Reinvest the money in a better cleaning tool or more capacity."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "How do I earn money in Moon Sweepers?",
+          "answer": "Collect lunar dust and deliver it to a depot for a paid shipment. Better tools, more carrying capacity, and depots near your work can make each cleaning trip more productive."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "Can I play Moon Sweepers with friends?",
+          "answer": "Yes. Moon Sweepers supports single-player and online co-op lobbies of up to 16 players. Crew members can split up or clean the same area together."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "Where can I play Moon Sweepers?",
+          "answer": "Moon Sweepers is available on Steam for Windows PC. It was released on October 23, 2026, and is developed and published by DragDrop Games."
         }
       ]
     },

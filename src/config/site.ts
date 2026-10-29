@@ -19,18 +19,18 @@ export interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-  name: "My Seafood Stand Wiki",
-  shortName: "My Seafood Stand",
-  logoText: "SS",
-  tagline: "Complete Guides, Codes, Recipes & Tier Lists",
-  description: "Your ultimate guide to My Seafood Stand on Roblox! Explore active working codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
-  url: process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top").hostname.replace(/^www\./, "")}`,
-  gameUrl: "https://www.roblox.com/games/my-seafood-stand",
-  heroVideoId: "M8DvcwoFRrk", // Roblox My Seafood Stand codes & gameplay video
+  name: "Moon Sweepers Wiki",
+  shortName: "Moon Sweepers",
+  logoText: "M",
+  tagline: "Guides, Tools & Updates for Lunar Cleanup",
+  description: "Fan-made guides and updates for Moon Sweepers, the cooperative lunar cleanup game.",
+  url: process.env.NEXT_PUBLIC_SITE_URL || "https://moonsweepers.top",
+  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://moonsweepers.top").hostname.replace(/^www\./, "")}`,
+  gameUrl: "https://store.steampowered.com/app/5335510/Moon_Sweepers/",
+  heroVideoId: "dEM3_CJFZWQ", // Official Moon Sweepers gameplay trailer
   social: {
-    discord: "https://discord.gg/roblox",
-    youtube: "https://www.youtube.com/@roblox",
+    discord: "https://discord.gg/5ATRkXkAAe",
+    youtube: "https://www.youtube.com/@MoonSweepers",
   },
   locales: ["en", "es", "pt", "de", "fr"],
   defaultLocale: "en",

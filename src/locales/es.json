@@ -1,1 +1,459 @@
-{}
+{
+  "site": {
+    "name": "Wiki de Moon Sweepers",
+    "shortName": "Moon Sweepers",
+    "tagline": "Guías, jugabilidad y consejos para la limpieza lunar",
+    "description": "Guías independientes de Moon Sweepers sobre limpieza lunar cooperativa, herramientas, mejoras, vehículos y actualizaciones verificadas del juego.",
+    "legalNotice": "Wiki independiente de aficionados. Moon Sweepers pertenece a DragDrop Games."
+  },
+  "nav": {
+    "home": "Inicio",
+    "menu": "Menú",
+    "toggleTheme": "Cambiar tema",
+    "guide": "Guía",
+    "mechanics": "Mecánicas",
+    "upgrades": "Mejoras",
+    "steam": "Steam",
+    "community": "Comunidad",
+    "media": "Multimedia",
+    "related": "Relacionado"
+  },
+  "home": {
+    "meta": {
+      "title": "Wiki de Moon Sweepers - Guías para principiantes, mejoras y consejos cooperativos",
+      "description": "Explora guías de Moon Sweepers sobre recolección de polvo lunar, depósitos, herramientas, mejoras, vehículos, juego cooperativo y requisitos del sistema en Steam."
+    },
+    "hero": {
+      "eyebrow": "Simulador cooperativo de limpieza lunar",
+      "title": "Wiki de Moon Sweepers",
+      "description": "Limpia la Luna en solitario o con hasta 16 jugadores. Recoge y vende polvo lunar, mejora las herramientas de limpieza y desbloquea vehículos en Moon Sweepers.",
+      "stats": [
+        "Lanzado el 23 de octubre de 2026",
+        "Hasta 16 jugadores",
+        "PC con Windows",
+        "Steam"
+      ],
+      "primaryCta": "Jugar en Steam",
+      "secondaryCta": "Unirse a Discord",
+      "tertiaryCta": "Explorar guías",
+      "videoLabel": "Tráiler de jugabilidad"
+    },
+    "updates": {
+      "title": "Últimas actualizaciones",
+      "browse": "Explorar todas las guías",
+      "viewAll": "Ver todo"
+    },
+    "start": {
+      "eyebrow": "Empieza aquí",
+      "title": "Tu aventura en Moon Sweepers",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guía para principiantes",
+          "description": "Empieza con un cepillo de dientes, limpia los sectores lunares cercanos y aprende cómo las entregas al depósito financian tus primeras mejoras."
+        },
+        {
+          "number": "2",
+          "title": "Gana dinero más rápido",
+          "description": "Recoge polvo lunar, completa envíos y reinvierte tus ganancias en una limpieza más eficiente."
+        },
+        {
+          "number": "3",
+          "title": "Elige tus mejoras",
+          "description": "Compara mejores cepillos, capacidad de carga y mejoras económicas antes de gastar tus primeras ganancias."
+        },
+        {
+          "number": "4",
+          "title": "Planifica tu primer depósito",
+          "description": "Mantén los puntos de entrega cerca de tu zona de limpieza y convierte cada contenedor lleno en un envío."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas populares",
+      "title": "Tendencias actuales",
+      "quickLinks": [
+        "Primeros pasos",
+        "Recolección de polvo",
+        "Mejoras de herramientas",
+        "Juego cooperativo"
+      ],
+      "cards": [
+        {
+          "badge": "Principiantes",
+          "title": "Guía para principiantes",
+          "description": "Sigue el ciclo del cepillo de dientes al depósito y elige tus primeras mejoras útiles.",
+          "href": "/guide/moon-sweepers-beginner-guide"
+        },
+        {
+          "badge": "Guía",
+          "title": "Recolección de polvo",
+          "description": "Barre, almacena, entrega y envía polvo lunar a cambio de dinero.",
+          "href": "/mechanics/moon-sweepers-dust-collection"
+        },
+        {
+          "badge": "Actualizado",
+          "title": "Herramientas y mejoras",
+          "description": "Descubre cómo las herramientas de limpieza, la capacidad de carga, el equipo del traje y los vehículos mejoran tu operación.",
+          "href": "/upgrades/moon-sweepers-equipment-guide"
+        },
+        {
+          "badge": "Popular",
+          "title": "Mejores mejoras iniciales",
+          "description": "Decide cuándo mejorar tu cepillo, el almacenamiento, el acceso a depósitos o los vehículos.",
+          "href": "/upgrades/moon-sweepers-upgrade-priorities"
+        },
+        {
+          "badge": "Nuevo",
+          "title": "Guía de las primeras etapas",
+          "description": "Completa tu primer envío de polvo y los hitos iniciales.",
+          "href": "/guide/moon-sweepers-early-game-guide"
+        },
+        {
+          "badge": "Popular",
+          "title": "Juego cooperativo y multijugador",
+          "description": "Aprende a organizar un equipo de limpieza lunar de hasta 16 jugadores.",
+          "href": "/guide/moon-sweepers-gameplay-guide"
+        },
+        {
+          "badge": "Popular",
+          "title": "Dinero y progresión",
+          "description": "Convierte las entregas de polvo en mejores herramientas, depósitos y vehículos.",
+          "href": "/guide/moon-sweepers-progression-guide"
+        },
+        {
+          "badge": "Nuevo",
+          "title": "Requisitos del sistema para PC",
+          "description": "Consulta los requisitos mínimos y recomendados de hardware para Windows de Moon Sweepers.",
+          "href": "/steam/moon-sweepers-system-requirements"
+        },
+        {
+          "badge": "Nuevo",
+          "title": "Detalles del lanzamiento en Steam",
+          "description": "Encuentra la fecha de lanzamiento, el desarrollador y las funciones de Steam en un solo lugar.",
+          "href": "/steam/moon-sweepers-steam-release-date"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "¿Qué es Moon Sweepers?",
+      "paragraphs": [
+        "Moon Sweepers es un simulador de limpieza lunar de DragDrop Games. Empieza con un cepillo de dientes, barre el polvo de la Luna, llévalo a un depósito y lanza envíos para ganar dinero. Juega en solitario o forma un equipo en línea de hasta 16 jugadores.",
+        "Gasta tus ganancias en herramientas de limpieza, capacidad de carga y vehículos a medida que amplías tu operación. Coloca depósitos cerca de tu zona de trabajo para acortar los trayectos de entrega y sigue tu progreso por la cambiante superficie lunar."
+      ],
+      "stats": [
+        {
+          "label": "Desarrollador",
+          "value": "DragDrop Games"
+        },
+        {
+          "label": "Plataforma",
+          "value": "Steam (Windows)"
+        },
+        {
+          "label": "Género",
+          "value": "Simulador de limpieza"
+        },
+        {
+          "label": "Cooperativo",
+          "value": "Hasta 16 jugadores"
+        },
+        {
+          "label": "Lanzamiento",
+          "value": "23 de octubre de 2026"
+        },
+        {
+          "label": "Herramienta inicial",
+          "value": "Cepillo de dientes"
+        },
+        {
+          "label": "Recurso principal",
+          "value": "Polvo lunar"
+        }
+      ],
+      "cta": "Explorar todas las guías"
+    },
+    "explore": {
+      "title": "Explora la wiki de Moon Sweepers",
+      "description": "Encuentra guías prácticas sobre limpieza lunar, mejoras de herramientas, entregas de polvo, juego cooperativo, requisitos del sistema y noticias del lanzamiento.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Guía para principiantes de Moon Sweepers",
+          "description": "Aprende el ciclo de limpieza, entrega y mejoras, desde la primera pasada con tu cepillo de dientes hasta tus primeros envíos rentables.",
+          "href": "/guide/moon-sweepers-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Limpia el polvo lunar cercano con tu cepillo de dientes inicial."
+            },
+            {
+              "label": "2",
+              "detail": "Lleva el polvo recogido a un depósito y lanza un envío."
+            },
+            {
+              "label": "3",
+              "detail": "Reinvierte tus ganancias en un mejor cepillo y más capacidad."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Herramientas y mejoras de Moon Sweepers",
+          "description": "Compara herramientas de limpieza, capacidad del contenedor, equipo del traje y vehículos para decidir en qué invertir tus próximas ganancias.",
+          "href": "/upgrades/moon-sweepers-equipment-guide",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Escoba doméstica: una gran mejora inicial respecto al cepillo de dientes."
+            },
+            {
+              "label": "A",
+              "detail": "Mejoras del contenedor: lleva más polvo en cada viaje al depósito."
+            },
+            {
+              "label": "B",
+              "detail": "Equipo del traje: mejora el movimiento, la visibilidad y la utilidad."
+            },
+            {
+              "label": "C",
+              "detail": "Vehículos: amplía la limpieza después de tus primeras mejoras de herramientas."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Guía para ganar dinero en Moon Sweepers",
+          "description": "Convierte la recolección de polvo y las entregas al depósito en ingresos, y usa tus ganancias para mejorar la siguiente jornada de limpieza.",
+          "href": "/guide/moon-sweepers-progression-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Barre polvo lunar y llena tu contenedor."
+            },
+            {
+              "label": "2",
+              "detail": "Lleva la carga a un depósito y lanza un envío."
+            },
+            {
+              "label": "3",
+              "detail": "Usa tus ganancias en herramientas, capacidad y depósitos cercanos."
+            },
+            {
+              "label": "4",
+              "detail": "Más adelante, incorpora vehículos y recursos refinados."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Guía multijugador y cooperativa de Moon Sweepers",
+          "description": "Juega en solitario o coordina un equipo en línea de hasta 16 jugadores para limpiar, entregar y crecer juntos.",
+          "href": "/guide/moon-sweepers-gameplay-guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "En solitario",
+              "detail": "Limpia y desarrolla tu operación a tu propio ritmo."
+            },
+            {
+              "label": "Equipo",
+              "detail": "Reúne hasta 16 jugadores en una sala en línea."
+            },
+            {
+              "label": "Colaboración",
+              "detail": "Reparte las zonas de limpieza o trabajad juntos en un mismo sector."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Guía de depósitos y entregas de polvo de Moon Sweepers",
+          "description": "Sigue el recorrido del polvo recogido al almacenamiento, los depósitos cercanos y los envíos remunerados.",
+          "href": "/mechanics/moon-sweepers-dust-collection",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Barre el terreno polvoriento hasta llenar tu almacenamiento."
+            },
+            {
+              "label": "2",
+              "detail": "Lleva la carga a un depósito cercano a tu zona de trabajo."
+            },
+            {
+              "label": "3",
+              "detail": "Lanza un envío e invierte las ganancias en limpiar más rápido."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Requisitos del sistema de Moon Sweepers",
+          "description": "Consulta las especificaciones oficiales mínimas y recomendadas para PC con Windows antes de instalar el juego.",
+          "href": "/steam/moon-sweepers-system-requirements",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Mínimos",
+              "detail": "Windows 10, 8 GB de RAM, GTX 1650 o RX 570."
+            },
+            {
+              "label": "Recomendados",
+              "detail": "Windows 11, 16 GB de RAM, GTX 1660 Super o RX 5600 XT."
+            },
+            {
+              "label": "Almacenamiento",
+              "detail": "Reserva 2 GB de espacio como mínimo o 4 GB recomendados."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Características de juego de Moon Sweepers",
+          "description": "Explora la limpieza de la superficie lunar, los cambios visibles del terreno, la recolección de recursos, las mejoras, los vehículos y el juego cooperativo.",
+          "href": "/guide/moon-sweepers-gameplay-guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Barre",
+              "detail": "Elimina el polvo lunar visible del terreno."
+            },
+            {
+              "label": "Mejora",
+              "detail": "Mejora las herramientas y la capacidad a medida que ganes dinero."
+            },
+            {
+              "label": "Amplía",
+              "detail": "Coloca depósitos y desbloquea vehículos de limpieza."
+            },
+            {
+              "label": "Cooperativo",
+              "detail": "Juega en solitario o limpia con hasta 16 jugadores."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Noticias del lanzamiento y las actualizaciones de Moon Sweepers",
+          "description": "Encuentra los detalles del lanzamiento en Steam, información del desarrollador y guías actuales sobre las actualizaciones oficiales del juego.",
+          "href": "/steam/moon-sweepers-steam-release-date",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Lanzamiento",
+              "detail": "Lanzado en Steam el 23 de octubre de 2026."
+            },
+            {
+              "label": "Estudio",
+              "detail": "Desarrollado y publicado por DragDrop Games."
+            },
+            {
+              "label": "Parches",
+              "detail": "Sigue la cobertura del lanzamiento y los cambios en la jugabilidad."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas frecuentes sobre Moon Sweepers",
+      "description": "Respuestas a preguntas habituales sobre cómo empezar, ganar dinero, mejorar y jugar en compañía en Moon Sweepers.",
+      "items": [
+        {
+          "question": "¿Qué es Moon Sweepers?",
+          "answer": "Moon Sweepers es un simulador de limpieza lunar de DragDrop Games. Barre polvo lunar, realiza envíos desde depósitos y gasta tus ganancias en herramientas y vehículos. Puedes jugar en solitario o en modo cooperativo en línea."
+        },
+        {
+          "question": "¿Qué debería hacer primero en Moon Sweepers?",
+          "answer": "Usa tu cepillo de dientes inicial para limpiar el polvo lunar cercano, llévalo a un depósito y lanza un envío. Reinvierte el dinero en una mejor herramienta de limpieza o en más capacidad."
+        },
+        {
+          "question": "¿Cómo gano dinero en Moon Sweepers?",
+          "answer": "Recoge polvo lunar y entrégalo en un depósito para realizar un envío remunerado. Mejores herramientas, más capacidad de carga y depósitos cerca de tu zona de trabajo pueden hacer que cada viaje de limpieza sea más productivo."
+        },
+        {
+          "question": "¿Puedo jugar a Moon Sweepers con amigos?",
+          "answer": "Sí. Moon Sweepers permite jugar en solitario y en salas cooperativas en línea de hasta 16 jugadores. Los miembros del equipo pueden separarse o limpiar juntos la misma zona."
+        },
+        {
+          "question": "¿Dónde puedo jugar a Moon Sweepers?",
+          "answer": "Moon Sweepers está disponible en Steam para PC con Windows. Se lanzó el 23 de octubre de 2026 y está desarrollado y publicado por DragDrop Games."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "¿Todo listo para limpiar la Luna?",
+      "description": "Explora las guías de Moon Sweepers sobre herramientas, mejoras, vehículos y juego cooperativo; después, únete al equipo en Steam.",
+      "primary": "Explorar guías",
+      "secondary": "Jugar en Steam"
+    }
+  },
+  "shared": {
+    "wikiNavigation": "Navegación de la wiki",
+    "updated": "Actualizado",
+    "playOnRoblox": "Jugar en Roblox",
+    "inThisSection": "En esta sección",
+    "tableOfContents": "Índice",
+    "nextSteps": "Próximos pasos",
+    "needHelp": "¿Necesitas ayuda?",
+    "relatedReading": "Lecturas relacionadas",
+    "relatedGuides": "Guías relacionadas",
+    "readMore": "Leer más",
+    "officialMedia": "Contenido multimedia oficial",
+    "home": "Inicio",
+    "noGuidesAvailable": "Aún no hay guías disponibles. ¡Vuelve pronto!",
+    "guideTitle": "Guía de Moon Sweepers",
+    "browseGuides": "Explorar guías"
+  },
+  "footer": {
+    "aboutTitle": "Wiki de Moon Sweepers",
+    "about": "Guías independientes de Moon Sweepers, el juego cooperativo de limpieza lunar de DragDrop Games. Encuentra información verificada sobre herramientas, mejoras, vehículos y trabajo en equipo.",
+    "quickLinks": "Enlaces rápidos",
+    "guides": "Guías",
+    "legal": "Avisos legales",
+    "copyright": "2026 Wiki de Moon Sweepers. Sitio independiente de aficionados; no está afiliado a DragDrop Games.",
+    "description": "Guías de Moon Sweepers para limpiar la Luna con hasta 16 jugadores en Steam.",
+    "playGame": "Jugar en Steam",
+    "officialDiscord": "Discord oficial",
+    "officialYoutube": "YouTube oficial",
+    "vvBuilder": "Comunidad de Moon Sweepers",
+    "beginnerGuide": "Guías de juego",
+    "raceGuides": "Guías cooperativas",
+    "bossGuides": "Guías de herramientas",
+    "buildGuide": "Guías de mejoras",
+    "privacyPolicy": "Política de privacidad",
+    "termsOfService": "Términos de servicio"
+  },
+  "guide": {
+    "overviewTitle": "Guía de Moon Sweepers",
+    "overviewDescription": "Empieza a limpiar la Luna con consejos para principiantes, guías paso a paso, recomendaciones de progresión y ayuda para las primeras etapas."
+  },
+  "mechanics": {
+    "overviewTitle": "Mecánicas de Moon Sweepers",
+    "overviewDescription": "Aprende sobre la recolección de polvo lunar, la limpieza, la automatización, la gestión de recursos y el juego eficiente."
+  },
+  "upgrades": {
+    "overviewTitle": "Mejoras de Moon Sweepers",
+    "overviewDescription": "Compara equipos, prioridades de mejora y opciones de progresión para limpiar la Luna con mayor eficacia."
+  },
+  "steam": {
+    "overviewTitle": "Moon Sweepers en Steam",
+    "overviewDescription": "Encuentra información del lanzamiento, requisitos del sistema, detalles de la tienda y noticias de Steam sobre Moon Sweepers."
+  },
+  "community": {
+    "overviewTitle": "Comunidad de Moon Sweepers",
+    "overviewDescription": "Explora conversaciones entre jugadores, reseñas y recursos de Discord y Reddit sobre Moon Sweepers."
+  },
+  "media": {
+    "overviewTitle": "Contenido multimedia de Moon Sweepers",
+    "overviewDescription": "Mira tráileres, vídeos de jugabilidad y recorridos en vídeo de Moon Sweepers."
+  },
+  "related": {
+    "overviewTitle": "Contenido relacionado con Moon Sweepers",
+    "overviewDescription": "Descubre juegos relacionados y lecturas adicionales vinculadas a Moon Sweepers."
+  }
+}

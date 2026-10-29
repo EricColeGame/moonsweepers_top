@@ -1,1 +1,459 @@
-{}
+{
+  "site": {
+    "name": "Moon Sweepers Wiki",
+    "shortName": "Moon Sweepers",
+    "tagline": "月面清掃のガイド、ゲームプレイ、ヒント",
+    "description": "協力プレイでの月面清掃、道具、アップグレード、乗り物、確認済みのゲーム更新情報を扱う独立系Moon Sweepersガイド。",
+    "legalNotice": "独立したファン運営のWikiです。Moon Sweepersの権利はDragDrop Gamesに帰属します。"
+  },
+  "nav": {
+    "home": "ホーム",
+    "menu": "メニュー",
+    "toggleTheme": "テーマを切り替える",
+    "guide": "ガイド",
+    "mechanics": "ゲームシステム",
+    "upgrades": "アップグレード",
+    "steam": "Steam",
+    "community": "コミュニティ",
+    "media": "メディア",
+    "related": "関連情報"
+  },
+  "home": {
+    "meta": {
+      "title": "Moon Sweepers Wiki - 初心者向けガイド、アップグレード、協力プレイのヒント",
+      "description": "月の塵の回収、集積所、道具、アップグレード、乗り物、協力プレイ、Steamのシステム要件に関するMoon Sweepersガイドをご覧ください。"
+    },
+    "hero": {
+      "eyebrow": "協力プレイ対応の月面清掃シミュレーター",
+      "title": "Moon Sweepers Wiki",
+      "description": "ソロまたは最大16人で月を清掃。Moon Sweepersで月の塵を集めて売り、清掃道具をアップグレードし、乗り物をアンロックしましょう。",
+      "stats": [
+        "2026年10月23日発売",
+        "最大16人",
+        "Windows PC",
+        "Steam"
+      ],
+      "primaryCta": "Steamでプレイ",
+      "secondaryCta": "Discordに参加",
+      "tertiaryCta": "ガイドを見る",
+      "videoLabel": "ゲームプレイトレーラー"
+    },
+    "updates": {
+      "title": "最新情報",
+      "browse": "すべてのガイドを見る",
+      "viewAll": "すべて見る"
+    },
+    "start": {
+      "eyebrow": "まずはこちら",
+      "title": "Moon Sweepersの冒険を始めよう",
+      "cards": [
+        {
+          "number": "1",
+          "title": "初心者向けガイド",
+          "description": "歯ブラシから始めて近くの月面区域を清掃し、集積所への搬入で最初のアップグレード費用を稼ぐ方法を学びましょう。"
+        },
+        {
+          "number": "2",
+          "title": "もっと早くお金を稼ぐ",
+          "description": "月の塵を集めて出荷を完了し、報酬をより効率的な清掃に再投資しましょう。"
+        },
+        {
+          "number": "3",
+          "title": "アップグレードを選ぶ",
+          "description": "最初の収益を使う前に、より良いブラシ、運搬容量、収益に関するアップグレードを比較しましょう。"
+        },
+        {
+          "number": "4",
+          "title": "最初の集積所を計画する",
+          "description": "清掃エリアの近くに搬入先を確保し、容器が満杯になるたびに出荷しましょう。"
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "人気のページ",
+      "title": "注目のページ",
+      "quickLinks": [
+        "最初の一歩",
+        "塵の回収",
+        "道具のアップグレード",
+        "協力プレイ"
+      ],
+      "cards": [
+        {
+          "badge": "初心者向け",
+          "title": "初心者向けガイド",
+          "description": "歯ブラシでの清掃から集積所への搬入までの流れをたどり、最初に役立つアップグレードを選びましょう。",
+          "href": "/guide/moon-sweepers-beginner-guide"
+        },
+        {
+          "badge": "ガイド",
+          "title": "塵の回収",
+          "description": "月の塵を掃き集め、保管し、搬入・出荷してお金を稼ぎましょう。",
+          "href": "/mechanics/moon-sweepers-dust-collection"
+        },
+        {
+          "badge": "更新済み",
+          "title": "道具とアップグレード",
+          "description": "清掃道具、運搬容量、宇宙服の装備、乗り物が作業をどう改善するかを確認しましょう。",
+          "href": "/upgrades/moon-sweepers-equipment-guide"
+        },
+        {
+          "badge": "人気",
+          "title": "序盤におすすめのアップグレード",
+          "description": "ブラシ、保管容量、集積所へのアクセス、乗り物をいつ改善するか決めましょう。",
+          "href": "/upgrades/moon-sweepers-upgrade-priorities"
+        },
+        {
+          "badge": "新着",
+          "title": "序盤攻略ガイド",
+          "description": "最初の塵の出荷から序盤の節目まで進めましょう。",
+          "href": "/guide/moon-sweepers-early-game-guide"
+        },
+        {
+          "badge": "人気",
+          "title": "協力プレイとマルチプレイ",
+          "description": "最大16人の月面清掃チームをまとめる方法を学びましょう。",
+          "href": "/guide/moon-sweepers-gameplay-guide"
+        },
+        {
+          "badge": "人気",
+          "title": "お金と進行",
+          "description": "塵の搬入で得た収益を、より良い道具、集積所、乗り物につなげましょう。",
+          "href": "/guide/moon-sweepers-progression-guide"
+        },
+        {
+          "badge": "新着",
+          "title": "PCシステム要件",
+          "description": "Moon Sweepersに必要なWindows PCの最低・推奨スペックを確認しましょう。",
+          "href": "/steam/moon-sweepers-system-requirements"
+        },
+        {
+          "badge": "新着",
+          "title": "Steam発売情報",
+          "description": "発売日、開発元、Steamの機能をまとめて確認できます。",
+          "href": "/steam/moon-sweepers-steam-release-date"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Moon Sweepersとは？",
+      "paragraphs": [
+        "Moon SweepersはDragDrop Gamesによる月面清掃シミュレーションゲームです。歯ブラシから始めて月の塵を掃き集め、集積所へ運び、出荷してお金を稼ぎます。ソロでも、最大16人のチームでオンラインプレイでも楽しめます。",
+        "作業が広がるにつれて、収益を清掃道具、運搬容量、乗り物に使いましょう。作業場所の近くに集積所を設置して運搬距離を短縮し、変化していく月面での進捗を確認しましょう。"
+      ],
+      "stats": [
+        {
+          "label": "開発元",
+          "value": "DragDrop Games"
+        },
+        {
+          "label": "プラットフォーム",
+          "value": "Steam（Windows）"
+        },
+        {
+          "label": "ジャンル",
+          "value": "清掃シミュレーション"
+        },
+        {
+          "label": "協力プレイ",
+          "value": "最大16人"
+        },
+        {
+          "label": "発売日",
+          "value": "2026年10月23日"
+        },
+        {
+          "label": "最初の道具",
+          "value": "歯ブラシ"
+        },
+        {
+          "label": "主要資源",
+          "value": "月の塵"
+        }
+      ],
+      "cta": "すべてのガイドを見る"
+    },
+    "explore": {
+      "title": "Moon Sweepers Wikiを探索",
+      "description": "月面清掃、道具のアップグレード、塵の搬入、協力プレイ、システム要件、発売情報に関する実用的なガイドを探しましょう。",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Moon Sweepers初心者向けガイド",
+          "description": "歯ブラシで最初に掃き始めてから、初めて利益の出る出荷まで、清掃・搬入・アップグレードの流れを学びましょう。",
+          "href": "/guide/moon-sweepers-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "最初の歯ブラシで近くの月の塵を清掃しましょう。"
+            },
+            {
+              "label": "2",
+              "detail": "集めた塵を集積所へ運び、出荷しましょう。"
+            },
+            {
+              "label": "3",
+              "detail": "収益をより良いブラシと運搬容量の増加に再投資しましょう。"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Moon Sweepersの道具とアップグレード",
+          "description": "清掃道具、容器の容量、宇宙服の装備、乗り物を比較し、次の報酬の使い道を決めましょう。",
+          "href": "/upgrades/moon-sweepers-equipment-guide",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "家庭用ほうき：最初の歯ブラシから序盤に大きく性能を上げられます。"
+            },
+            {
+              "label": "A",
+              "detail": "容器のアップグレード：集積所への各回の運搬でより多くの塵を運べます。"
+            },
+            {
+              "label": "B",
+              "detail": "宇宙服の装備：移動、視界、利便性を改善します。"
+            },
+            {
+              "label": "C",
+              "detail": "乗り物：序盤の道具をアップグレードした後、清掃範囲を広げられます。"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Moon Sweepersのお金稼ぎガイド",
+          "description": "塵の回収と集積所への搬入を収入につなげ、報酬を使って次の清掃作業を改善しましょう。",
+          "href": "/guide/moon-sweepers-progression-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "月の塵を掃き集め、容器を満たしましょう。"
+            },
+            {
+              "label": "2",
+              "detail": "集積所に運び、出荷して報酬を得ましょう。"
+            },
+            {
+              "label": "3",
+              "detail": "収益を道具、運搬容量、近くの集積所に使いましょう。"
+            },
+            {
+              "label": "4",
+              "detail": "後で乗り物や精製資源にも手を広げましょう。"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Moon Sweepersのマルチプレイ・協力プレイガイド",
+          "description": "ソロでプレイするか、最大16人のオンラインチームと協力して清掃、搬入、事業の拡大を進めましょう。",
+          "href": "/guide/moon-sweepers-gameplay-guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "ソロ",
+              "detail": "自分のペースで清掃し、作業を拡大しましょう。"
+            },
+            {
+              "label": "チーム",
+              "detail": "オンラインロビーに最大16人を招きましょう。"
+            },
+            {
+              "label": "分担",
+              "detail": "清掃エリアを分担するか、同じ区域を一緒に清掃しましょう。"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Moon Sweepersの集積所と塵の搬入ガイド",
+          "description": "回収した塵を保管し、近くの集積所へ運んで、有償の出荷につなげる流れを確認しましょう。",
+          "href": "/mechanics/moon-sweepers-dust-collection",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "保管容器が満杯になるまで、塵の積もった地面を清掃しましょう。"
+            },
+            {
+              "label": "2",
+              "detail": "作業エリア近くの集積所へ運びましょう。"
+            },
+            {
+              "label": "3",
+              "detail": "出荷し、報酬をより速い清掃のために投資しましょう。"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Moon Sweepersのシステム要件",
+          "description": "ゲームをインストールする前に、Windows PCの公式の最低・推奨スペックを確認しましょう。",
+          "href": "/steam/moon-sweepers-system-requirements",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "最低",
+              "detail": "Windows 10、8 GB RAM、GTX 1650またはRX 570。"
+            },
+            {
+              "label": "推奨",
+              "detail": "Windows 11、16 GB RAM、GTX 1660 SuperまたはRX 5600 XT。"
+            },
+            {
+              "label": "ストレージ",
+              "detail": "最低2 GB、推奨4 GBの空き容量を確保してください。"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Moon Sweepersのゲームプレイ要素",
+          "description": "月面の清掃、目に見える地形の変化、資源の回収、アップグレード、乗り物、協力プレイについて見てみましょう。",
+          "href": "/guide/moon-sweepers-gameplay-guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "清掃",
+              "detail": "地面に見える月の塵を取り除きましょう。"
+            },
+            {
+              "label": "アップグレード",
+              "detail": "お金を稼ぎながら道具と運搬容量を改善しましょう。"
+            },
+            {
+              "label": "拡大",
+              "detail": "集積所を設置し、清掃用の乗り物をアンロックしましょう。"
+            },
+            {
+              "label": "協力プレイ",
+              "detail": "ソロ、または最大16人で清掃しましょう。"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Moon Sweepersの発売・更新情報",
+          "description": "Steamでの発売情報、開発元の情報、公式ゲーム更新に関する最新のガイドを確認しましょう。",
+          "href": "/steam/moon-sweepers-steam-release-date",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "発売",
+              "detail": "2026年10月23日にSteamで発売。"
+            },
+            {
+              "label": "スタジオ",
+              "detail": "DragDrop Gamesが開発・販売。"
+            },
+            {
+              "label": "パッチ",
+              "detail": "発売情報やゲームプレイの変更を追いましょう。"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Moon Sweepersのよくある質問",
+      "description": "Moon Sweepersの始め方、稼ぎ方、アップグレード、協力プレイに関するよくある質問への回答。",
+      "items": [
+        {
+          "question": "Moon Sweepersとは？",
+          "answer": "Moon SweepersはDragDrop Gamesによる月面清掃シミュレーションゲームです。月の塵を掃き集め、集積所から出荷し、収益を道具や乗り物に使います。ソロでもオンライン協力プレイでも楽しめます。"
+        },
+        {
+          "question": "Moon Sweepersでは最初に何をすればいいですか？",
+          "answer": "最初の歯ブラシで近くの月の塵を清掃し、集積所へ運んで出荷しましょう。得たお金をより良い清掃道具や運搬容量の増加に再投資しましょう。"
+        },
+        {
+          "question": "Moon Sweepersでお金を稼ぐには？",
+          "answer": "月の塵を集め、集積所へ運んで出荷すると報酬が得られます。より良い道具、運搬容量の増加、作業場所近くの集積所によって、清掃各回あたりの成果を高められます。"
+        },
+        {
+          "question": "Moon Sweepersは友達とプレイできますか？",
+          "answer": "はい。Moon Sweepersはシングルプレイと最大16人のオンライン協力プレイロビーに対応しています。チームで手分けすることも、同じエリアを一緒に清掃することもできます。"
+        },
+        {
+          "question": "Moon Sweepersはどこでプレイできますか？",
+          "answer": "Moon SweepersはWindows PC向けにSteamで提供されています。2026年10月23日に発売され、DragDrop Gamesが開発・販売しています。"
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "月の清掃を始める準備はできましたか？",
+      "description": "道具、アップグレード、乗り物、協力プレイに関するMoon Sweepersガイドを読んで、Steamでチームに加わりましょう。",
+      "primary": "ガイドを見る",
+      "secondary": "Steamでプレイ"
+    }
+  },
+  "shared": {
+    "wikiNavigation": "Wikiナビゲーション",
+    "updated": "更新日",
+    "playOnRoblox": "Robloxでプレイ",
+    "inThisSection": "このセクションの内容",
+    "tableOfContents": "目次",
+    "nextSteps": "次のステップ",
+    "needHelp": "お困りですか？",
+    "relatedReading": "関連記事",
+    "relatedGuides": "関連ガイド",
+    "readMore": "続きを読む",
+    "officialMedia": "公式メディア",
+    "home": "ホーム",
+    "noGuidesAvailable": "ガイドはまだありません。後ほどご確認ください！",
+    "guideTitle": "Moon Sweepersガイド",
+    "browseGuides": "ガイドを見る"
+  },
+  "footer": {
+    "aboutTitle": "Moon Sweepers Wiki",
+    "about": "DragDrop Gamesによる協力プレイ対応の月面清掃ゲーム、Moon Sweepersの独立系ガイドです。道具、アップグレード、乗り物、チームワークに関する確認済みの情報をご覧ください。",
+    "quickLinks": "クイックリンク",
+    "guides": "ガイド",
+    "legal": "法的情報",
+    "copyright": "2026 Moon Sweepers Wiki。独立したファンサイトであり、DragDrop Gamesとは提携していません。",
+    "description": "Steamで最大16人の月面清掃を楽しむためのMoon Sweepersガイド。",
+    "playGame": "Steamでプレイ",
+    "officialDiscord": "公式Discord",
+    "officialYoutube": "公式YouTube",
+    "vvBuilder": "Moon Sweepersコミュニティ",
+    "beginnerGuide": "ゲームプレイガイド",
+    "raceGuides": "協力プレイガイド",
+    "bossGuides": "道具ガイド",
+    "buildGuide": "アップグレードガイド",
+    "privacyPolicy": "プライバシーポリシー",
+    "termsOfService": "利用規約"
+  },
+  "guide": {
+    "overviewTitle": "Moon Sweepersガイド",
+    "overviewDescription": "初心者向けのヒント、攻略手順、進行に関するアドバイス、序盤のサポートを参考に、月の清掃を始めましょう。"
+  },
+  "mechanics": {
+    "overviewTitle": "Moon Sweepersのゲームシステム",
+    "overviewDescription": "月の塵の回収、清掃、自動化、資源管理、効率的なプレイについて学びましょう。"
+  },
+  "upgrades": {
+    "overviewTitle": "Moon Sweepersのアップグレード",
+    "overviewDescription": "より効果的な月面清掃のために、装備、アップグレードの優先順位、進行上の選択肢を比較しましょう。"
+  },
+  "steam": {
+    "overviewTitle": "SteamのMoon Sweepers",
+    "overviewDescription": "Moon Sweepersの発売情報、システム要件、ストアの詳細、Steamに関する情報を確認しましょう。"
+  },
+  "community": {
+    "overviewTitle": "Moon Sweepersコミュニティ",
+    "overviewDescription": "Moon Sweepersのプレイヤーによる議論、レビュー、Discord、Redditの情報を探しましょう。"
+  },
+  "media": {
+    "overviewTitle": "Moon Sweepersのメディア",
+    "overviewDescription": "Moon Sweepersのトレーラー、ゲームプレイ動画、攻略動画を視聴しましょう。"
+  },
+  "related": {
+    "overviewTitle": "Moon Sweepersの関連情報",
+    "overviewDescription": "Moon Sweepersに関連するゲームや参考記事を見つけましょう。"
+  }
+}

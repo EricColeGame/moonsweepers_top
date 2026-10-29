@@ -7,18 +7,17 @@ import { routing, type Locale } from "@/i18n/routing";
 import en from "@/locales/en.json";
 import HomePageClient from "./HomePageClient";
 
-const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top";
+const siteUrl = siteConfig.url;
 
 type Messages = typeof en;
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
   const { locale } = await params;
-  const messages = (await getMessages({ locale })) as Messages;
   return {
-    title: messages.home.meta.title,
-    description: messages.home.meta.description,
+    title: "Moon Sweepers Wiki - Guide, Gameplay & Tips",
+    description: "Find Moon Sweepers gameplay guides, beginner tips, core mechanics, progression help, platform details, and verified updates to get started and explore the game.",
     alternates: { canonical: `/${locale}`, languages: Object.fromEntries(routing.locales.map((loc) => [loc, `/${loc}`])) },
-    openGraph: { title: messages.home.meta.title, description: messages.home.meta.description, url: `${siteUrl}/${locale}`, images: [`${siteUrl}/images/hero.webp`] },
+    openGraph: { title: "Moon Sweepers Wiki - Guide, Gameplay & Tips", description: siteConfig.description, url: `${siteUrl}/${locale}`, images: [`${siteUrl}/images/hero.webp`] },
   };
 }
 
@@ -27,7 +26,7 @@ export default async function LocaleHomePage({ params }: { params: Promise<{ loc
   const loc = locale as Locale;
   const messages = (await getMessages({ locale })) as Messages;
   const navGroups = getDynamicNavigation(loc);
-  const webSite = { "@context": "https://schema.org", "@type": "WebSite", name: siteConfig.name, url: siteUrl, description: messages.home.meta.description };
+  const webSite = { "@context": "https://schema.org", "@type": "WebSite", name: siteConfig.name, url: siteUrl, description: siteConfig.description };
 
   // 动态加载所有 content 目录下的文章
   const allArticles: ContentItem[] = [];

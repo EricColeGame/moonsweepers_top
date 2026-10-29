@@ -24,7 +24,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   const adsenseId = process.env.NEXT_PUBLIC_GOOGLE_ADSENSE_ID;
   return {
     metadataBase: new URL(siteUrl),
-    title: { default: siteConfig.name, template: "%s" },
+    title: { default: "Moon Sweepers Wiki", template: "%s" },
     description: siteConfig.description,
     manifest: "/manifest.json",
     icons: {

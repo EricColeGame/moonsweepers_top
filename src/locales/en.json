@@ -9,7 +9,14 @@
   "nav": {
     "home": "Home",
     "menu": "Menu",
-    "toggleTheme": "Toggle theme"
+    "toggleTheme": "Toggle theme",
+    "guide": "Guide",
+    "mechanics": "Mechanics",
+    "upgrades": "Upgrades",
+    "steam": "Steam",
+    "community": "Community",
+    "media": "Media",
+    "related": "Related"
   },
   "home": {
     "meta": {
@@ -385,12 +392,9 @@
       "secondary": "Play on Steam"
     }
   },
-  "bosses": {},
   "shared": {
     "wikiNavigation": "Wiki Navigation",
-    "activeCodes": "Active Codes",
     "updated": "Updated",
-    "viewAllCodes": "View all codes",
     "playOnRoblox": "Play on Roblox",
     "inThisSection": "In this section",
     "tableOfContents": "Table of Contents",
@@ -401,7 +405,9 @@
     "readMore": "Read more",
     "officialMedia": "Official media",
     "home": "Home",
-    "noGuidesAvailable": "No guides available yet. Check back soon!"
+    "noGuidesAvailable": "No guides available yet. Check back soon!",
+    "guideTitle": "Moon Sweepers Guide",
+    "browseGuides": "Browse guides"
   },
   "footer": {
     "aboutTitle": "Moon Sweepers Wiki",
@@ -421,5 +427,33 @@
     "buildGuide": "Upgrade Guides",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
+  },
+  "guide": {
+    "overviewTitle": "Moon Sweepers Guide",
+    "overviewDescription": "Start cleaning the Moon with beginner tips, walkthroughs, progression advice, and early game help."
+  },
+  "mechanics": {
+    "overviewTitle": "Moon Sweepers Mechanics",
+    "overviewDescription": "Learn about lunar dust collection, cleaning, automation, resource management, and efficient play."
+  },
+  "upgrades": {
+    "overviewTitle": "Moon Sweepers Upgrades",
+    "overviewDescription": "Compare equipment, upgrade priorities, and progression choices for more effective lunar cleanup."
+  },
+  "steam": {
+    "overviewTitle": "Moon Sweepers on Steam",
+    "overviewDescription": "Find release information, system requirements, store details, and Steam coverage for Moon Sweepers."
+  },
+  "community": {
+    "overviewTitle": "Moon Sweepers Community",
+    "overviewDescription": "Explore player discussions, reviews, Discord, and Reddit resources for Moon Sweepers."
+  },
+  "media": {
+    "overviewTitle": "Moon Sweepers Media",
+    "overviewDescription": "Watch Moon Sweepers trailers, gameplay videos, and walkthrough footage."
+  },
+  "related": {
+    "overviewTitle": "Moon Sweepers Related",
+    "overviewDescription": "Discover related games and further reading connected to Moon Sweepers."
   }
 }
